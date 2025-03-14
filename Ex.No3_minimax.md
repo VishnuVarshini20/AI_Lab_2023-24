@@ -46,13 +46,6 @@ print(minimax(0, 0, True, scores, treeDepth))
 
 
 
-
-
-
-
-
-
-
 ### Output:
 ![Screenshot 2025-03-14 092551](https://github.com/user-attachments/assets/1227726b-7a79-41aa-93f5-2de86c98b6fa)
 
