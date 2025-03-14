@@ -40,13 +40,6 @@ dfs(visited, graph, '5')
 
 
 
-
-
-
-
-
-
-
 ### Output:
 
 ![Screenshot 2025-03-14 090654](https://github.com/user-attachments/assets/4a2c512d-9e20-4d9d-8d66-f82d34cc9829)
